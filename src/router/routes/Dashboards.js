@@ -9,6 +9,10 @@ const DashboardRoutes = [
   {
     path: '/vehicle-type',
     component: lazy(() => import('../../custom-views/ManageVehicleTypes/ManageVehicleType'))
+  },
+  {
+    path: '/employee',
+    component: lazy(() => import('../../custom-views/ManageEmployee/ManageEmployeeView'))
   }
 ]
 

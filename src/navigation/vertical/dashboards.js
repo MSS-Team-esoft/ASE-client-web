@@ -16,5 +16,11 @@ export default [
         title: 'Manage Vehicle Types',
         icon: <Wind size={12}/>,
         navLink: '/vehicle-type'
+    },
+    {
+        id: 'employeeView',
+        title: 'Manage Employee',
+        icon: <Briefcase size={12}/>,
+        navLink: '/employee'
     }
 ]
