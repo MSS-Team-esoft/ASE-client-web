@@ -10,5 +10,11 @@ export default [
         title: 'Dashboard',
         icon: <Home size={12}/>,
         navLink: '/dashboard'
+    },
+    {
+        id: 'vehiclesTypeView',
+        title: 'Manage Vehicle Types',
+        icon: <Wind size={12}/>,
+        navLink: '/vehicle-type'
     }
 ]
