@@ -8,7 +8,7 @@ export const CUSTOMER_MOCK_DB = [
         dob: '2000.01.09'
     },
     {
-        name: 'Walakulu Gathsara Kumara',
+        name: 'Gathsara Umesh',
         email: 'gathsarah@gmail.com',
         gender: 'male',
         telephone_number: '0721223454',
